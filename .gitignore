@@ -1,3 +1,6 @@
+# Workspace Eclipse
+*.metadata
+
 # Compiled class file
 *.class
 
